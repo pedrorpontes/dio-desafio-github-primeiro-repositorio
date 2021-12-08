@@ -1,0 +1,16 @@
+C:\Workspace\dio-desafio-github-primeiro-repositorio\ExPOO\ExPOO\bin\Debug\net5.0\ExPOO.exe
+C:\Workspace\dio-desafio-github-primeiro-repositorio\ExPOO\ExPOO\bin\Debug\net5.0\ExPOO.deps.json
+C:\Workspace\dio-desafio-github-primeiro-repositorio\ExPOO\ExPOO\bin\Debug\net5.0\ExPOO.runtimeconfig.json
+C:\Workspace\dio-desafio-github-primeiro-repositorio\ExPOO\ExPOO\bin\Debug\net5.0\ExPOO.runtimeconfig.dev.json
+C:\Workspace\dio-desafio-github-primeiro-repositorio\ExPOO\ExPOO\bin\Debug\net5.0\ExPOO.dll
+C:\Workspace\dio-desafio-github-primeiro-repositorio\ExPOO\ExPOO\bin\Debug\net5.0\ref\ExPOO.dll
+C:\Workspace\dio-desafio-github-primeiro-repositorio\ExPOO\ExPOO\bin\Debug\net5.0\ExPOO.pdb
+C:\Workspace\dio-desafio-github-primeiro-repositorio\ExPOO\ExPOO\obj\Debug\net5.0\ExPOO.csproj.AssemblyReference.cache
+C:\Workspace\dio-desafio-github-primeiro-repositorio\ExPOO\ExPOO\obj\Debug\net5.0\ExPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\dio-desafio-github-primeiro-repositorio\ExPOO\ExPOO\obj\Debug\net5.0\ExPOO.AssemblyInfoInputs.cache
+C:\Workspace\dio-desafio-github-primeiro-repositorio\ExPOO\ExPOO\obj\Debug\net5.0\ExPOO.AssemblyInfo.cs
+C:\Workspace\dio-desafio-github-primeiro-repositorio\ExPOO\ExPOO\obj\Debug\net5.0\ExPOO.csproj.CoreCompileInputs.cache
+C:\Workspace\dio-desafio-github-primeiro-repositorio\ExPOO\ExPOO\obj\Debug\net5.0\ExPOO.dll
+C:\Workspace\dio-desafio-github-primeiro-repositorio\ExPOO\ExPOO\obj\Debug\net5.0\ref\ExPOO.dll
+C:\Workspace\dio-desafio-github-primeiro-repositorio\ExPOO\ExPOO\obj\Debug\net5.0\ExPOO.pdb
+C:\Workspace\dio-desafio-github-primeiro-repositorio\ExPOO\ExPOO\obj\Debug\net5.0\ExPOO.genruntimeconfig.cache
