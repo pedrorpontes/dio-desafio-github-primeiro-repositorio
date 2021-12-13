@@ -1,0 +1,32 @@
+C:\Workspace\dio-desafio-github-primeiro-repositorio\Colecoes\Colecoes\bin\Debug\net5.0\Colecoes.exe
+C:\Workspace\dio-desafio-github-primeiro-repositorio\Colecoes\Colecoes\bin\Debug\net5.0\Colecoes.deps.json
+C:\Workspace\dio-desafio-github-primeiro-repositorio\Colecoes\Colecoes\bin\Debug\net5.0\Colecoes.runtimeconfig.json
+C:\Workspace\dio-desafio-github-primeiro-repositorio\Colecoes\Colecoes\bin\Debug\net5.0\Colecoes.runtimeconfig.dev.json
+C:\Workspace\dio-desafio-github-primeiro-repositorio\Colecoes\Colecoes\bin\Debug\net5.0\Colecoes.dll
+C:\Workspace\dio-desafio-github-primeiro-repositorio\Colecoes\Colecoes\bin\Debug\net5.0\ref\Colecoes.dll
+C:\Workspace\dio-desafio-github-primeiro-repositorio\Colecoes\Colecoes\bin\Debug\net5.0\Colecoes.pdb
+C:\Workspace\dio-desafio-github-primeiro-repositorio\Colecoes\Colecoes\obj\Debug\net5.0\Colecoes.csproj.AssemblyReference.cache
+C:\Workspace\dio-desafio-github-primeiro-repositorio\Colecoes\Colecoes\obj\Debug\net5.0\Colecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\dio-desafio-github-primeiro-repositorio\Colecoes\Colecoes\obj\Debug\net5.0\Colecoes.AssemblyInfoInputs.cache
+C:\Workspace\dio-desafio-github-primeiro-repositorio\Colecoes\Colecoes\obj\Debug\net5.0\Colecoes.AssemblyInfo.cs
+C:\Workspace\dio-desafio-github-primeiro-repositorio\Colecoes\Colecoes\obj\Debug\net5.0\Colecoes.csproj.CoreCompileInputs.cache
+C:\Workspace\dio-desafio-github-primeiro-repositorio\Colecoes\Colecoes\obj\Debug\net5.0\Colecoes.dll
+C:\Workspace\dio-desafio-github-primeiro-repositorio\Colecoes\Colecoes\obj\Debug\net5.0\ref\Colecoes.dll
+C:\Workspace\dio-desafio-github-primeiro-repositorio\Colecoes\Colecoes\obj\Debug\net5.0\Colecoes.pdb
+C:\Workspace\dio-desafio-github-primeiro-repositorio\Colecoes\Colecoes\obj\Debug\net5.0\Colecoes.genruntimeconfig.cache
+C:\Workspace\dio-desafio-github-primeiro-repositorio\Fundamentos de Coleções e LINQ com .NET\Colecoes\Colecoes\bin\Debug\net5.0\Colecoes.exe
+C:\Workspace\dio-desafio-github-primeiro-repositorio\Fundamentos de Coleções e LINQ com .NET\Colecoes\Colecoes\bin\Debug\net5.0\Colecoes.deps.json
+C:\Workspace\dio-desafio-github-primeiro-repositorio\Fundamentos de Coleções e LINQ com .NET\Colecoes\Colecoes\bin\Debug\net5.0\Colecoes.runtimeconfig.json
+C:\Workspace\dio-desafio-github-primeiro-repositorio\Fundamentos de Coleções e LINQ com .NET\Colecoes\Colecoes\bin\Debug\net5.0\Colecoes.runtimeconfig.dev.json
+C:\Workspace\dio-desafio-github-primeiro-repositorio\Fundamentos de Coleções e LINQ com .NET\Colecoes\Colecoes\bin\Debug\net5.0\Colecoes.dll
+C:\Workspace\dio-desafio-github-primeiro-repositorio\Fundamentos de Coleções e LINQ com .NET\Colecoes\Colecoes\bin\Debug\net5.0\ref\Colecoes.dll
+C:\Workspace\dio-desafio-github-primeiro-repositorio\Fundamentos de Coleções e LINQ com .NET\Colecoes\Colecoes\bin\Debug\net5.0\Colecoes.pdb
+C:\Workspace\dio-desafio-github-primeiro-repositorio\Fundamentos de Coleções e LINQ com .NET\Colecoes\Colecoes\obj\Debug\net5.0\Colecoes.csproj.AssemblyReference.cache
+C:\Workspace\dio-desafio-github-primeiro-repositorio\Fundamentos de Coleções e LINQ com .NET\Colecoes\Colecoes\obj\Debug\net5.0\Colecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\dio-desafio-github-primeiro-repositorio\Fundamentos de Coleções e LINQ com .NET\Colecoes\Colecoes\obj\Debug\net5.0\Colecoes.AssemblyInfoInputs.cache
+C:\Workspace\dio-desafio-github-primeiro-repositorio\Fundamentos de Coleções e LINQ com .NET\Colecoes\Colecoes\obj\Debug\net5.0\Colecoes.AssemblyInfo.cs
+C:\Workspace\dio-desafio-github-primeiro-repositorio\Fundamentos de Coleções e LINQ com .NET\Colecoes\Colecoes\obj\Debug\net5.0\Colecoes.csproj.CoreCompileInputs.cache
+C:\Workspace\dio-desafio-github-primeiro-repositorio\Fundamentos de Coleções e LINQ com .NET\Colecoes\Colecoes\obj\Debug\net5.0\Colecoes.dll
+C:\Workspace\dio-desafio-github-primeiro-repositorio\Fundamentos de Coleções e LINQ com .NET\Colecoes\Colecoes\obj\Debug\net5.0\ref\Colecoes.dll
+C:\Workspace\dio-desafio-github-primeiro-repositorio\Fundamentos de Coleções e LINQ com .NET\Colecoes\Colecoes\obj\Debug\net5.0\Colecoes.pdb
+C:\Workspace\dio-desafio-github-primeiro-repositorio\Fundamentos de Coleções e LINQ com .NET\Colecoes\Colecoes\obj\Debug\net5.0\Colecoes.genruntimeconfig.cache
