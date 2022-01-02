@@ -1,0 +1,15 @@
+C:\Workspace\dio-desafio-github-primeiro-repositorio\Introdução a Design Patterns com .NET\Localiza.Frotas5\Localiza.Frotas5.Infra\bin\Debug\net5.0\Localiza.Frotas5.Infra.deps.json
+C:\Workspace\dio-desafio-github-primeiro-repositorio\Introdução a Design Patterns com .NET\Localiza.Frotas5\Localiza.Frotas5.Infra\bin\Debug\net5.0\Localiza.Frotas5.Infra.dll
+C:\Workspace\dio-desafio-github-primeiro-repositorio\Introdução a Design Patterns com .NET\Localiza.Frotas5\Localiza.Frotas5.Infra\bin\Debug\net5.0\ref\Localiza.Frotas5.Infra.dll
+C:\Workspace\dio-desafio-github-primeiro-repositorio\Introdução a Design Patterns com .NET\Localiza.Frotas5\Localiza.Frotas5.Infra\bin\Debug\net5.0\Localiza.Frotas5.Infra.pdb
+C:\Workspace\dio-desafio-github-primeiro-repositorio\Introdução a Design Patterns com .NET\Localiza.Frotas5\Localiza.Frotas5.Infra\obj\Debug\net5.0\Localiza.Frotas5.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\dio-desafio-github-primeiro-repositorio\Introdução a Design Patterns com .NET\Localiza.Frotas5\Localiza.Frotas5.Infra\obj\Debug\net5.0\Localiza.Frotas5.Infra.AssemblyInfoInputs.cache
+C:\Workspace\dio-desafio-github-primeiro-repositorio\Introdução a Design Patterns com .NET\Localiza.Frotas5\Localiza.Frotas5.Infra\obj\Debug\net5.0\Localiza.Frotas5.Infra.AssemblyInfo.cs
+C:\Workspace\dio-desafio-github-primeiro-repositorio\Introdução a Design Patterns com .NET\Localiza.Frotas5\Localiza.Frotas5.Infra\obj\Debug\net5.0\Localiza.Frotas5.Infra.csproj.CoreCompileInputs.cache
+C:\Workspace\dio-desafio-github-primeiro-repositorio\Introdução a Design Patterns com .NET\Localiza.Frotas5\Localiza.Frotas5.Infra\obj\Debug\net5.0\Localiza.Frotas5.Infra.dll
+C:\Workspace\dio-desafio-github-primeiro-repositorio\Introdução a Design Patterns com .NET\Localiza.Frotas5\Localiza.Frotas5.Infra\obj\Debug\net5.0\ref\Localiza.Frotas5.Infra.dll
+C:\Workspace\dio-desafio-github-primeiro-repositorio\Introdução a Design Patterns com .NET\Localiza.Frotas5\Localiza.Frotas5.Infra\obj\Debug\net5.0\Localiza.Frotas5.Infra.pdb
+C:\Workspace\dio-desafio-github-primeiro-repositorio\Introdução a Design Patterns com .NET\Localiza.Frotas5\Localiza.Frotas5.Infra\obj\Debug\net5.0\Localiza.Frotas5.Infra.csproj.AssemblyReference.cache
+C:\Workspace\dio-desafio-github-primeiro-repositorio\Introdução a Design Patterns com .NET\Localiza.Frotas5\Localiza.Frotas5.Infra\bin\Debug\net5.0\Localiza.Frotas5.Domain.dll
+C:\Workspace\dio-desafio-github-primeiro-repositorio\Introdução a Design Patterns com .NET\Localiza.Frotas5\Localiza.Frotas5.Infra\bin\Debug\net5.0\Localiza.Frotas5.Domain.pdb
+C:\Workspace\dio-desafio-github-primeiro-repositorio\Introdução a Design Patterns com .NET\Localiza.Frotas5\Localiza.Frotas5.Infra\obj\Debug\net5.0\Localiza.Frotas5.Infra.csproj.CopyComplete

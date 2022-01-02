@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d8c5ebbb-7a22-4e5a-a37c-e51ab4599d86": {
+      "ProjectGuid": "d8c5ebbb-7a22-4e5a-a37c-e51ab4599d86",
+      "DisplayName": "Localiza.Frotas5",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "3801eb65-6bf0-4947-9409-eeb652c0f44e": {
+      "ProjectGuid": "3801eb65-6bf0-4947-9409-eeb652c0f44e",
+      "DisplayName": "Localiza.Frotas5.Domain",
+      "ColorIndex": 1
+    },
+    "fb6d0004-18ff-4563-ab09-cd3a57deebf5": {
+      "ProjectGuid": "fb6d0004-18ff-4563-ab09-cd3a57deebf5",
+      "DisplayName": "Localiza.Frotas5.Infra",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

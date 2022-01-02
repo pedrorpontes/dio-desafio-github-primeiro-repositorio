@@ -14,3 +14,19 @@ C:\Workspace\dio-desafio-github-primeiro-repositorio\Revisao\Revisao\Revisao\obj
 C:\Workspace\dio-desafio-github-primeiro-repositorio\Revisao\Revisao\Revisao\obj\Debug\net5.0\ref\Revisao.dll
 C:\Workspace\dio-desafio-github-primeiro-repositorio\Revisao\Revisao\Revisao\obj\Debug\net5.0\Revisao.pdb
 C:\Workspace\dio-desafio-github-primeiro-repositorio\Revisao\Revisao\Revisao\obj\Debug\net5.0\Revisao.genruntimeconfig.cache
+C:\Workspace\dio-desafio-github-primeiro-repositorio\Primeiros passos com .NET\Revisao\Revisao\Revisao\obj\Debug\net5.0\Revisao.csproj.AssemblyReference.cache
+C:\Workspace\dio-desafio-github-primeiro-repositorio\Primeiros passos com .NET\Revisao\Revisao\Revisao\obj\Debug\net5.0\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\dio-desafio-github-primeiro-repositorio\Primeiros passos com .NET\Revisao\Revisao\Revisao\obj\Debug\net5.0\Revisao.AssemblyInfoInputs.cache
+C:\Workspace\dio-desafio-github-primeiro-repositorio\Primeiros passos com .NET\Revisao\Revisao\Revisao\obj\Debug\net5.0\Revisao.AssemblyInfo.cs
+C:\Workspace\dio-desafio-github-primeiro-repositorio\Primeiros passos com .NET\Revisao\Revisao\Revisao\obj\Debug\net5.0\Revisao.csproj.CoreCompileInputs.cache
+C:\Workspace\dio-desafio-github-primeiro-repositorio\Primeiros passos com .NET\Revisao\Revisao\Revisao\obj\Debug\net5.0\Revisao.dll
+C:\Workspace\dio-desafio-github-primeiro-repositorio\Primeiros passos com .NET\Revisao\Revisao\Revisao\obj\Debug\net5.0\ref\Revisao.dll
+C:\Workspace\dio-desafio-github-primeiro-repositorio\Primeiros passos com .NET\Revisao\Revisao\Revisao\obj\Debug\net5.0\Revisao.pdb
+C:\Workspace\dio-desafio-github-primeiro-repositorio\Primeiros passos com .NET\Revisao\Revisao\Revisao\bin\Debug\net5.0\Revisao.exe
+C:\Workspace\dio-desafio-github-primeiro-repositorio\Primeiros passos com .NET\Revisao\Revisao\Revisao\bin\Debug\net5.0\Revisao.deps.json
+C:\Workspace\dio-desafio-github-primeiro-repositorio\Primeiros passos com .NET\Revisao\Revisao\Revisao\bin\Debug\net5.0\Revisao.runtimeconfig.json
+C:\Workspace\dio-desafio-github-primeiro-repositorio\Primeiros passos com .NET\Revisao\Revisao\Revisao\bin\Debug\net5.0\Revisao.runtimeconfig.dev.json
+C:\Workspace\dio-desafio-github-primeiro-repositorio\Primeiros passos com .NET\Revisao\Revisao\Revisao\bin\Debug\net5.0\Revisao.dll
+C:\Workspace\dio-desafio-github-primeiro-repositorio\Primeiros passos com .NET\Revisao\Revisao\Revisao\bin\Debug\net5.0\ref\Revisao.dll
+C:\Workspace\dio-desafio-github-primeiro-repositorio\Primeiros passos com .NET\Revisao\Revisao\Revisao\bin\Debug\net5.0\Revisao.pdb
+C:\Workspace\dio-desafio-github-primeiro-repositorio\Primeiros passos com .NET\Revisao\Revisao\Revisao\obj\Debug\net5.0\Revisao.genruntimeconfig.cache

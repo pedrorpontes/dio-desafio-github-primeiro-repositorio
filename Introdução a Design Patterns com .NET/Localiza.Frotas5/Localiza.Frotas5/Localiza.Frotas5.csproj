@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <GenerateDocumentationFile>True</GenerateDocumentationFile>
+    <DocumentationFile>C:\Workspace\dio-desafio-github-primeiro-repositorio\Introdução a Design Patterns com .NET\Localiza.Frotas5\Localiza.Frotas5\Localiza.Frotas.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Localiza.Frotas5.Domain\Localiza.Frotas5.Domain.csproj" />
+    <ProjectReference Include="..\Localiza.Frotas5.Infra\Localiza.Frotas5.Infra.csproj" />
+  </ItemGroup>
+
+</Project>

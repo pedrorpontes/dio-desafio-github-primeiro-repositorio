@@ -1,0 +1,203 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Workspace\\dio-desafio-github-primeiro-repositorio\\Introdução a Design Patterns com .NET\\Localiza.Frotas5\\Localiza.Frotas5\\Localiza.Frotas5.csproj": {}
+  },
+  "projects": {
+    "C:\\Workspace\\dio-desafio-github-primeiro-repositorio\\Introdução a Design Patterns com .NET\\Localiza.Frotas5\\Localiza.Frotas5.Domain\\Localiza.Frotas5.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Workspace\\dio-desafio-github-primeiro-repositorio\\Introdução a Design Patterns com .NET\\Localiza.Frotas5\\Localiza.Frotas5.Domain\\Localiza.Frotas5.Domain.csproj",
+        "projectName": "Localiza.Frotas5.Domain",
+        "projectPath": "C:\\Workspace\\dio-desafio-github-primeiro-repositorio\\Introdução a Design Patterns com .NET\\Localiza.Frotas5\\Localiza.Frotas5.Domain\\Localiza.Frotas5.Domain.csproj",
+        "packagesPath": "C:\\Users\\Pedro\\.nuget\\packages\\",
+        "outputPath": "C:\\Workspace\\dio-desafio-github-primeiro-repositorio\\Introdução a Design Patterns com .NET\\Localiza.Frotas5\\Localiza.Frotas5.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.nuget.org/api/v2": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Workspace\\dio-desafio-github-primeiro-repositorio\\Introdução a Design Patterns com .NET\\Localiza.Frotas5\\Localiza.Frotas5.Infra\\Localiza.Frotas5.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Workspace\\dio-desafio-github-primeiro-repositorio\\Introdução a Design Patterns com .NET\\Localiza.Frotas5\\Localiza.Frotas5.Infra\\Localiza.Frotas5.Infra.csproj",
+        "projectName": "Localiza.Frotas5.Infra",
+        "projectPath": "C:\\Workspace\\dio-desafio-github-primeiro-repositorio\\Introdução a Design Patterns com .NET\\Localiza.Frotas5\\Localiza.Frotas5.Infra\\Localiza.Frotas5.Infra.csproj",
+        "packagesPath": "C:\\Users\\Pedro\\.nuget\\packages\\",
+        "outputPath": "C:\\Workspace\\dio-desafio-github-primeiro-repositorio\\Introdução a Design Patterns com .NET\\Localiza.Frotas5\\Localiza.Frotas5.Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.nuget.org/api/v2": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Workspace\\dio-desafio-github-primeiro-repositorio\\Introdução a Design Patterns com .NET\\Localiza.Frotas5\\Localiza.Frotas5.Domain\\Localiza.Frotas5.Domain.csproj": {
+                "projectPath": "C:\\Workspace\\dio-desafio-github-primeiro-repositorio\\Introdução a Design Patterns com .NET\\Localiza.Frotas5\\Localiza.Frotas5.Domain\\Localiza.Frotas5.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Workspace\\dio-desafio-github-primeiro-repositorio\\Introdução a Design Patterns com .NET\\Localiza.Frotas5\\Localiza.Frotas5\\Localiza.Frotas5.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Workspace\\dio-desafio-github-primeiro-repositorio\\Introdução a Design Patterns com .NET\\Localiza.Frotas5\\Localiza.Frotas5\\Localiza.Frotas5.csproj",
+        "projectName": "Localiza.Frotas5",
+        "projectPath": "C:\\Workspace\\dio-desafio-github-primeiro-repositorio\\Introdução a Design Patterns com .NET\\Localiza.Frotas5\\Localiza.Frotas5\\Localiza.Frotas5.csproj",
+        "packagesPath": "C:\\Users\\Pedro\\.nuget\\packages\\",
+        "outputPath": "C:\\Workspace\\dio-desafio-github-primeiro-repositorio\\Introdução a Design Patterns com .NET\\Localiza.Frotas5\\Localiza.Frotas5\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.nuget.org/api/v2": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Workspace\\dio-desafio-github-primeiro-repositorio\\Introdução a Design Patterns com .NET\\Localiza.Frotas5\\Localiza.Frotas5.Domain\\Localiza.Frotas5.Domain.csproj": {
+                "projectPath": "C:\\Workspace\\dio-desafio-github-primeiro-repositorio\\Introdução a Design Patterns com .NET\\Localiza.Frotas5\\Localiza.Frotas5.Domain\\Localiza.Frotas5.Domain.csproj"
+              },
+              "C:\\Workspace\\dio-desafio-github-primeiro-repositorio\\Introdução a Design Patterns com .NET\\Localiza.Frotas5\\Localiza.Frotas5.Infra\\Localiza.Frotas5.Infra.csproj": {
+                "projectPath": "C:\\Workspace\\dio-desafio-github-primeiro-repositorio\\Introdução a Design Patterns com .NET\\Localiza.Frotas5\\Localiza.Frotas5.Infra\\Localiza.Frotas5.Infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

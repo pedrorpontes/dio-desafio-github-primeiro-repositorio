@@ -1,0 +1,16 @@
+C:\Workspace\dio-desafio-github-primeiro-repositorio\DesafiosDIO\DesafiosDIO\bin\Debug\net5.0\DesafiosDIO.exe
+C:\Workspace\dio-desafio-github-primeiro-repositorio\DesafiosDIO\DesafiosDIO\bin\Debug\net5.0\DesafiosDIO.deps.json
+C:\Workspace\dio-desafio-github-primeiro-repositorio\DesafiosDIO\DesafiosDIO\bin\Debug\net5.0\DesafiosDIO.runtimeconfig.json
+C:\Workspace\dio-desafio-github-primeiro-repositorio\DesafiosDIO\DesafiosDIO\bin\Debug\net5.0\DesafiosDIO.runtimeconfig.dev.json
+C:\Workspace\dio-desafio-github-primeiro-repositorio\DesafiosDIO\DesafiosDIO\bin\Debug\net5.0\DesafiosDIO.dll
+C:\Workspace\dio-desafio-github-primeiro-repositorio\DesafiosDIO\DesafiosDIO\bin\Debug\net5.0\ref\DesafiosDIO.dll
+C:\Workspace\dio-desafio-github-primeiro-repositorio\DesafiosDIO\DesafiosDIO\bin\Debug\net5.0\DesafiosDIO.pdb
+C:\Workspace\dio-desafio-github-primeiro-repositorio\DesafiosDIO\DesafiosDIO\obj\Debug\net5.0\DesafiosDIO.csproj.AssemblyReference.cache
+C:\Workspace\dio-desafio-github-primeiro-repositorio\DesafiosDIO\DesafiosDIO\obj\Debug\net5.0\DesafiosDIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\dio-desafio-github-primeiro-repositorio\DesafiosDIO\DesafiosDIO\obj\Debug\net5.0\DesafiosDIO.AssemblyInfoInputs.cache
+C:\Workspace\dio-desafio-github-primeiro-repositorio\DesafiosDIO\DesafiosDIO\obj\Debug\net5.0\DesafiosDIO.AssemblyInfo.cs
+C:\Workspace\dio-desafio-github-primeiro-repositorio\DesafiosDIO\DesafiosDIO\obj\Debug\net5.0\DesafiosDIO.csproj.CoreCompileInputs.cache
+C:\Workspace\dio-desafio-github-primeiro-repositorio\DesafiosDIO\DesafiosDIO\obj\Debug\net5.0\DesafiosDIO.dll
+C:\Workspace\dio-desafio-github-primeiro-repositorio\DesafiosDIO\DesafiosDIO\obj\Debug\net5.0\ref\DesafiosDIO.dll
+C:\Workspace\dio-desafio-github-primeiro-repositorio\DesafiosDIO\DesafiosDIO\obj\Debug\net5.0\DesafiosDIO.pdb
+C:\Workspace\dio-desafio-github-primeiro-repositorio\DesafiosDIO\DesafiosDIO\obj\Debug\net5.0\DesafiosDIO.genruntimeconfig.cache
